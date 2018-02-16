@@ -1,0 +1,12 @@
+c:\users\mücella kaya\documents\visual studio 2015\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe.config
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.pdb
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csprojResolveAssemblyReference.cache
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.Form1.resources
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.Properties.Resources.resources
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.csproj.GenerateResource.Cache
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.exe
+C:\Users\Mücella Kaya\Documents\Visual Studio 2015\Projects\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.pdb
+C:\Users\Mücella Kaya\Desktop\HesapMakinasi\HesapMakinasi\bin\Debug\HesapMakinasi.exe.config
+C:\Users\Mücella Kaya\Desktop\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.exe
+C:\Users\Mücella Kaya\Desktop\HesapMakinasi\HesapMakinasi\obj\Debug\HesapMakinasi.pdb
